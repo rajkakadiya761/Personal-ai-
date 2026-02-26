@@ -1,0 +1,5 @@
+flask
+requests
+pyttsx3
+SpeechRecognition
+pyaudio
